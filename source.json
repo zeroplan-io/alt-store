@@ -2,8 +2,8 @@
   "name": "LastWords",
   "identifier": "io.zeroplan.lastwords.source",
   "subtitle": "Dead man's switch for your final messages",
-  "website": "https://github.com/zeroplan-io/lastwords-altstore",
-  "iconURL": "https://raw.githubusercontent.com/zeroplan-io/lastwords-altstore/main/icon.png",
+  "website": "https://github.com/zeroplan-io/alt-store",
+  "iconURL": "https://raw.githubusercontent.com/zeroplan-io/alt-store/main/icon.png",
   "apps": [
     {
       "name": "LastWords",
@@ -11,7 +11,7 @@
       "developerName": "ZeroPlan",
       "subtitle": "Dead man's switch",
       "localizedDescription": "LastWords delivers your final messages and encrypted attachments to the people you choose if you stop checking in.",
-      "iconURL": "https://raw.githubusercontent.com/zeroplan-io/lastwords-altstore/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/zeroplan-io/alt-store/main/icon.png",
       "tintColor": "#7C3AED",
       "category": "utilities",
       "versions": [
@@ -20,7 +20,7 @@
           "buildVersion": "1",
           "date": "2026-11-20",
           "localizedDescription": "First test release.",
-          "downloadURL": "https://github.com/zeroplan-io/lastwords-altstore/releases/download/v0.1.0/LastWords.ipa",
+          "downloadURL": "https://github.com/zeroplan-io/alt-store/releases/download/release_0.0.1/LastWords.ipa",
           "size": 6591620,
           "minOSVersion": "17.0"
         }
